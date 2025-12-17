@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Usman-Official my original name is Muhammad Usman
 - 👀 I’m interested in MERN Stack | Full Stack Development | App development...
-- 🌱 I’m currently learning React-Native...
 - 📫 How to reach me: Musmant11@gmail.com
 
 <!---
